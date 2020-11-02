@@ -1,7 +1,7 @@
 # 2020 Live Election Forecast
 
 ### Background
-* This shiny dashbaoard allows you to update states as they are called in the 2020 election and see how the probability of victory for each candidates changes.
+* This shiny dashboard allows you to update states as they are called in the 2020 election and see how the probability of victory for each candidates changes.
 * Link to Shiny dashboard: [https://guydotan.shinyapps.io/2020LiveElectionForecast/](https://guydotan.shinyapps.io/2020LiveElectionForecast/)
 * Note: picking a winner in a state this is very unlikely to go one way (e.g. CA for Trump or AL for Biden) might cause the dashboard to error out
 
