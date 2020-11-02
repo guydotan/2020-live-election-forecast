@@ -11,4 +11,4 @@
 
 <br />
 
-![screenshot-app](screenshot-app.png)
+![screenshot-app](screenshot_app.png)
